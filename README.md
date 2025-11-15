@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ja Xian Chen</h1>
+<h1 align="center">Hi 👋, I'm Ja Chen</h1>
 
 ## 🛠️ Languages & Tools
 
